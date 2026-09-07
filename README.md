@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 Key Features
-
+🚀 **Trained on 5,000+ invoice records to deliver data-driven risk detection and freight cost predictions.**
 * 🚩 **Invoice Risk Flagging** — identifies invoices that may require further review.
 * 🚚 **Freight Cost Prediction** — estimates expected freight cost from invoice information.
 * 🤖 **2 Machine Learning Models** — classification + regression.
