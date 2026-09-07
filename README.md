@@ -9,13 +9,13 @@ Built with **Python, Scikit-learn, SQLite, and Streamlit**, the project combines
 ## 🖼️ Project Preview
 
 <p align="center">
-  <img src="assets/invoice-1.png" width="45%" />
-  <img src="assets/invoice-2.png" width="45%" />
+  <img src="asset/invoice-1.png" width="45%" />
+  <img src="asset/invoice-2.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="assets/invoice-3.png" width="45%" />
-  <img src="assets/invoice-4.png" width="45%" />
+  <img src="asset/invoice-3.png" width="45%" />
+  <img src="asset/invoice-4.png" width="45%" />
 </p>
 
 ---
