@@ -6,15 +6,24 @@
 
 ## 🖼️ Project Preview
 
-<p align="center">
-  <img src="asset/invoice-1.png" width="45%" />
-  <img src="asset/invoice-2.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="asset/invoice-3.png" width="45%" />
-  <img src="asset/invoice-4.png" width="45%" />
-</p>
+<table align="center">
+  <tr>
+    <td style="border: 2px solid #00aaff; border-radius: 12px; padding: 6px; box-shadow: 0 0 15px #00aaff;">
+      <img src="asset/invoice-1.png" width="450">
+    </td>
+    <td style="border: 2px solid #00aaff; border-radius: 12px; padding: 6px; box-shadow: 0 0 15px #00aaff;">
+      <img src="asset/invoice-2.png" width="450">
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 2px solid #00aaff; border-radius: 12px; padding: 6px; box-shadow: 0 0 15px #00aaff;">
+      <img src="asset/invoice-3.png" width="450">
+    </td>
+    <td style="border: 2px solid #00aaff; border-radius: 12px; padding: 6px; box-shadow: 0 0 15px #00aaff;">
+      <img src="asset/invoice-4.png" width="450">
+    </td>
+  </tr>
+</table>
 
 ---
 
