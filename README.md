@@ -2,9 +2,7 @@
 
 **Invoice Intelligence** is a Machine Learning-based application designed to analyze invoice data, identify potentially risky invoices, and predict freight costs using historical business data.
 
-Built with **Python, Scikit-learn, SQLite, and Streamlit**, the project combines **2 ML models** into a single interactive application.
-
----
+🔗 **[Invoice-Intelligence-Live-Project](https://invoice-intelligence-ml-project-princebuildsai.streamlit.app/)**
 
 ## 🖼️ Project Preview
 
