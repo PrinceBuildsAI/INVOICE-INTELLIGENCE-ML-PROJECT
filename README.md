@@ -196,7 +196,8 @@ The application is built with **Streamlit** and can be deployed as an interactiv
 ---
 
 ## 👨‍💻 Author
-PRINCE SINGH
-**Machine Learning / AI Engineering Project**
 
-Built to demonstrate practical application of **Machine Learning, Data Processing, Model Evaluation, and Deployment** in a business-focused use case.
+**PrinceBuildsAI**
+
+Built as a practical Machine Learning project to explore how AI can transform invoice data into intelligent risk detection and freight cost predictions.
+
