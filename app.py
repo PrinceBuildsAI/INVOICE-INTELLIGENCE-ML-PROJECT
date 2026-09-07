@@ -20,9 +20,7 @@ st.set_page_config(
 # PATHS
 # =========================================================
 
-BASE_DIR = Path(
-    r"C:\Users\singh\Desktop\Education\Invoice Intelligence ML Project"
-)
+BASE_DIR = Path(__file__).resolve().parent
 
 MODEL_DIR = BASE_DIR / "models"
 
